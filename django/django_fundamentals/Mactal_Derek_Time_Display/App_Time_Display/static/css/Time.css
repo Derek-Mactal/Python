@@ -1,0 +1,32 @@
+*{
+    outline: 1px dotted red;
+}
+
+*{
+    font-family: sans-serif;
+}
+
+.container{
+    margin: 0px auto;
+    text-align: center;
+    display: flex; 
+    flex-direction: column;
+    width: 970px; 
+    align-items: center;
+}
+
+h3{
+    display:flex;
+    outline: solid 2px black;
+    width: 280px;
+    height: 50px;
+    justify-content: center;
+    padding-top: 5px;
+
+}
+
+h1{
+    outline: solid 2px black;
+    width: 650px; 
+    height: 150px;
+}
